@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Intensiones</string>
+    <string name="txt_titulo">Intensiones :P</string>
+    <string name="btn_Ventana1">Ventana 1</string>
+    <string name="btn_Ventana2">Ventana 2</string>
+    <string name="btn_google">Gulugulú</string>
+    <string name="btn_back">Regresar</string>
+    <string name="txt_suma">Suma xd</string>
+    <string name="txt_numero1">Primer Numero</string>
+    <string name="txt_numero2">Segundo Numero</string>
+    <string name="btn_Calcular">¿Calcular?</string>
+    <string name="txt_res">Resultado</string>
+</resources>
